@@ -1,5 +1,4 @@
-<img src= ![image](https://github.com/user-attachments/assets/ff207234-973b-495b-bf7b-3570ba043af6)
- height="500"> 
+<img src= ![image](https://github.com/user-attachments/assets/ff207234-973b-495b-bf7b-3570ba043af6)> 
 <img src= ![image](https://github.com/user-attachments/assets/f0f416ec-9a5d-40e3-95b6-ae6425db7031)
  height="500"> 
 <h2>Task</h2>
